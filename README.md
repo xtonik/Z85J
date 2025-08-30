@@ -43,6 +43,10 @@ boolean valid = Z85.isValid(new byte[]{'0','1','2','3','4'});
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## License
+
+This project is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, as long as you include the original copyright and license notice in all copies or substantial portions of the software.
+
 ## TODO
 - [ ] Rewrite benchmark to use JMH and move it to separate module if necessary
 - [ ] Register project in Maven central repository
